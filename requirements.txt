@@ -1,0 +1,1 @@
+`shlex` is part of Python's standard library and does not require separate installation or version specification. Therefore, it should not be included in a `requirements.txt` file or similar dependency declaration.
